@@ -14,7 +14,6 @@ const images = [
 ];
 
 const imgEl = document.querySelector('.gallery');
-console.log(imgEl);
 imgEl.style.listStyle = 'none';
 
 

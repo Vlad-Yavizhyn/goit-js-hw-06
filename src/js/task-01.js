@@ -6,4 +6,3 @@ CatEl.forEach(CatEl => {
     console.log(`Category: ${CatEl.firstElementChild.textContent}`)
     console.log(`Elements: ${CatEl.lastElementChild.children.length}`)
 });
-
